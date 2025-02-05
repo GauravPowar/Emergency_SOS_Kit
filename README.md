@@ -1,4 +1,4 @@
-# GPS-GSM Emergency Alert System
+# GPS-GSM Based Emergency Alert System
 
 ## Overview
 This project implements an emergency alert system using a GPS module (Neo-6M) and a GSM module (SIM800L). When a button is pressed for at least 3 seconds, the system retrieves the current GPS location and sends an SMS with the coordinates to a predefined emergency contact. It then initiates a call to the same contact.
